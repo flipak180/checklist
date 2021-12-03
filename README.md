@@ -6,3 +6,4 @@
 - **sizes**
 ## CSS
 - **import** @import "https://lorem.css";
+- **bulma** 
